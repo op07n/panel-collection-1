@@ -10,3 +10,9 @@ https://mybinder.org/v2/gh/op07n/mygenericbinder7/master?urlpath=git-pull?repo=h
 
 https://mybinder.org/v2/gh/op07n/mygenericbinder7/master?urlpath=git-pull?repo=https://github.com/pyviz-demos/nyc_taxi
 
+https://mybinder.org/v2/gh/op07n/mygenericbinder7/master?urlpath=git-pull?repo=https://github.com/pyviz-demos/glaciers
+
+https://mybinder.org/v2/gh/op07n/mygenericbinder7/master?urlpath=git-pull?repo=https://github.com/pyviz-demos/gapminder.git
+
+https://mybinder.org/v2/gh/op07n/mygenericbinder7/master?urlpath=git-pull?repo=https://github.com/pyviz-demos/clifford.git
+
